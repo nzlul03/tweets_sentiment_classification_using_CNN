@@ -1,1 +1,1 @@
-# tweets_classification_using_CNN
+# Tweets Sentiment Classification using CNN
